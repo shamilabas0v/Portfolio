@@ -1,0 +1,98 @@
+.header {display: flex;
+    justify-content: space-between;
+    padding: 50px 95px;
+ }
+
+.left-header {
+    
+    width: 203px;
+    height: 28px;
+    flex-shrink: 0;
+    }
+
+    .right-header {display: flex;
+        width: 515px;
+        height: 38px;
+        padding: 0px 10px 10px 10.5px;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 40px;
+        flex-shrink: 0;}
+
+        
+
+        .About {color: #000;
+            font-family: Roboto;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 28px; /* 175% */}
+            .Services {color: #000;
+                font-family: Roboto;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 28px; /* 175% */}
+                .projects{color: #000;
+                    font-family: Roboto;
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 28px;}
+                    .design {color: #FF8A56;
+                        font-family: Roboto;
+                        font-size: 72px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 82.5px; /* 114.583% */
+                        letter-spacing: 2px;
+                    }
+                    .that {color: #000;
+                        font-family: Roboto;
+                        font-size: 72px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 82.5px; /* 114.583% */
+                        letter-spacing: 2px;}
+                        .golova {
+                            
+                          
+                            width: 500px;
+                            height: 595px;
+                            flex-shrink: 0;
+                            background: url(golova.png), lightgray 50% / contain no-repeat;}
+                            .hi {color: #666;
+                                font-family: Roboto;
+                                font-size: 22px;
+                                font-style: normal;
+                                font-weight: 400;
+                                line-height: 33px; /* 150% */}
+                                .black {display: flex ;
+                                
+                                    width: 151px;
+                                    padding: 20px 30px 2px 30px;
+                                    justify-content: center;
+                                    align-items: center;}
+                                    .dowloand {color: #000;
+                                        
+                                        padding-left: 100px
+                                        
+                                ;;
+                                        font-family: Roboto;
+                                        flex: auto;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 400;
+                                        line-height: 18px; /* 100% */}
+
+                                    .main { display: flex
+                                ;
+                            flex-direction: row;
+                        justify-content: flex-start;
+                 padding: 30px;
+                padding-left: 150px;}
+
+        
+ .btn-group {
+    display: flex;
+ }
